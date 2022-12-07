@@ -46,6 +46,6 @@
          <li><a href="笑脸文件.psd">笑脸文件.psd</a></li>
          <li><a href="抠图文件.psd">抠图文件.psd</a></li>
          <h3>图片展示</h3>
-         <li><img src="笑脸文件.png">笑脸文件.png</a></li>
-         <li><img src="抠图文件.png">抠图文件.png</a></li>
+         <li><img src="笑脸文件.png"></a></li>
+         <li><img src="抠图文件.png"></a></li>
    
