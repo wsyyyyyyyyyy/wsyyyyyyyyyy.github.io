@@ -37,6 +37,7 @@
     <hr/>
     <li>实验四
       <ul type="disc">
+        <li><a href="sy4-1.html">实验4-1</a></li>
         <li><a href="sy4-2.html">实验4-2</a></li>
       </ul>
     <hr/>
