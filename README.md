@@ -46,6 +46,12 @@
          <li><a href="笑脸文件.psd">笑脸文件.psd</a></li>
          <li><a href="抠图文件.psd">抠图文件.psd</a></li>
          <h3>图片展示</h3>
-         <li><img src="笑脸文件.png"></a></li>
-         <li><img src="抠图文件.png"></a></li>
+         <li><img src="笑脸文件.png"></li>
+         <li><img src="抠图文件.png"></li>
+       <hr/>
+    <li>实验七
+      <ul type="disc">
+        <li><a href="sy7-1.html">实验7-1</a></li>
+        <li><a href="sy7-2.html">实验7-2</a></li>
+      </ul>
    
