@@ -55,4 +55,8 @@
         <li><a href="sy7-1.html">实验7-1</a></li>
         <li><a href="sy7-2.html">实验7-2</a></li>
       </ul>
+    <li>实验八
+      <ul type="disc">
+        <li><a href="index.html">个人主页</a></li>
+      </ul>
    
